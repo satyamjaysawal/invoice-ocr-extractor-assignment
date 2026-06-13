@@ -3,3 +3,5 @@ Pillow
 opencv-python
 openpyxl
 pandas
+python-dotenv
+kagglehub
